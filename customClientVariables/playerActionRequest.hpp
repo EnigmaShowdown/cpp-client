@@ -5,7 +5,7 @@
 #include "../json.hpp"
 using json = nlohmann::json;
 
-#include "ConquestAction.hpp"
+#include "conquestAction.hpp"
 
 
 struct PlayerActionRequest
