@@ -69,7 +69,7 @@ MoveAction playerCode(levelStateBroadcast gameData)
       playerAction = MoveAction{ 5.061455 , 10 };
       break;
     case 4:
-      playerAction = MoveAction{ 3.141593 , 5 };
+      playerAction = MoveAction{ 1.745329 , 5 };
       break;
     default:
       playerAction = funnyMove();
